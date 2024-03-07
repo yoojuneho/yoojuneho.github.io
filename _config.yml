@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "뭘 공부하지?"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "JUNO_준호"
+name                     : "JUNO"
 description              : "An amazing website."
 url                      : "https://yoojuneho.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "JUNO"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "I am an **born again** person."
   location         : "Somewhere"
   email            :
   links:
