@@ -196,7 +196,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: #Asia/Seoul
+timezone: #Asia/Seoul #주석을 풀면 서버가 작동이 안됨;;;;
 
 
 # Plugins (previously gems:)
