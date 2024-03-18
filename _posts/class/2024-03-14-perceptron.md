@@ -21,6 +21,8 @@ tos: true
 
 **퍼셉트론의 구조**는 이러한 인간의 신경을 모델링 한 것입니다.
 
+퍼셉트론은 다수의 신호를 입력(Input) 받아서 하나의 신호를 출력(Output)합니다.
+
 <img src="/images/2024-03-14-perceptron/image-20240314095147121.png" alt="image-20240314095147121" style="zoom: 50%;" /><img src="/images/2024-03-14-perceptron/image-20240314095702655.png" alt="image-20240314095702655" style="zoom:50%;" />
 
 - X0은 항상 1이 입력되는 bias node.  (임계치를 0으로 만들어주기 위함입니다.)
